@@ -1,8 +1,8 @@
 #include <stdio.h>
   Int main () {
 
-    int nome
-    printf ("qual nome");
+    int nome;
+    printf ("qual nome", nome);
 
 
 
